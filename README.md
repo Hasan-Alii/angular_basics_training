@@ -1,4 +1,12 @@
 # angular basics training
+this is an application for all the concepts and methods used in the first section of the [Angular with Maxmilian](https://www.udemy.com/course/the-complete-guide-to-angular-2) 
+which addrssses the vital basics of angular's:
+- {{ string interpolation }}
+- [property binding]
+- (event binding)
+- [(2 way binding)] which is like [(ngModel)]
+- components
+- directives
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0-rc.5.
 
